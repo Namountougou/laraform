@@ -41,4 +41,7 @@ class artcontroller extends Controller
     {
         return view('contact');
     }
-}
+
+   
+    }
+
